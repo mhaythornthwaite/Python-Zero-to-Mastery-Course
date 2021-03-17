@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 
 
-I completed this course in Q1 2020, with the aim to refresh my python skills in preparation for learning and applying ML/AI libraries such as scikit-learn, tensorflow/keras etc. See below a brief summary of what was covered.
+I completed this course in Q1 2020, with the aim to refresh my python skills in preparation for learning and applying ML/AI libraries such as scikit-learn, tensorflow/keras etc. See below a brief summary I've put together of what was covered.
 
 
 ## Course Contents
